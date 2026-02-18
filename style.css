@@ -173,3 +173,12 @@ main {
   color: white;
   text-align: center;
 }
+
+.button{
+    background: transparent;
+    border: 2px solid black; /* ou la couleur de ton choix */
+    color: black;
+    padding: 10px 25px; /* augmente le padding pour le rendre plus grand */
+    font-size: 1.2rem;
+    cursor: pointer;
+  }
