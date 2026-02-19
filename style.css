@@ -135,9 +135,6 @@ main {
   background-image: url("https://img.freepik.com/vecteurs-premium/fond-degrade-blanc-gris-abstrait-moderne-fond-ecran-texture-lignes-diagonales_473751-765.jpg");
 }
 
-.menu {
-  background-color: white;
-}
 
 .about {
   background-color: #f0f0f0;
@@ -182,3 +179,4 @@ main {
     font-size: 1.2rem;
     cursor: pointer;
   }
+
