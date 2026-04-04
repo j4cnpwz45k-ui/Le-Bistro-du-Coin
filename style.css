@@ -155,15 +155,6 @@ main {
   transition: transform 3s ease;
 }
 
-.photos:hover {
-  transform: translateY(-10px);
-}
-
-.photos img {
-  border-radius: 8px;
-  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
-}
-
 .map {
   display : flex;
   justify-content : center;
